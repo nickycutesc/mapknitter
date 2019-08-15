@@ -6024,6 +6024,7 @@ wd@*:
 
 webgl-distort@jywarren/webgl-distort#*:
   version "0.0.1"
+  uid f8a86cb7c60b25a1728ffb532c8ec2db116821f7
   resolved "https://codeload.github.com/jywarren/webgl-distort/tar.gz/f8a86cb7c60b25a1728ffb532c8ec2db116821f7"
 
 wellknown@0.4.2:
